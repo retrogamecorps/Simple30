@@ -194,12 +194,11 @@ SELECT + DOWN on d-pad = volume down<br>
 
 Here are some random notes that may help you get the most out of this unique device:
 
-To scrape boxart or videos for your menus, check out this section of my Starter Guide.
+- If you load your roms onto your SD card and do not see them in the menu, go into the sections/emulators folder on your SD card and find the appropriate launcher file for your system.  Open that file with a text editor, and find that last bit of code: (`selectorfilter=gdi,cdi`) or similar, and add the file extensions of your roms (.iso, .img, and so on).
+- To scrape boxart or videos for your menus, <a href="https://retrogamecorps.com/2021/01/08/pocketgo-s30-starter-guide/#Boxart">check out this section of my Starter Guide.</a>
 You can adjust the brightness within RetroArch by going to Settings > Video > Output > Screen Brightness. I find this easier than closing out of the game and adjusting the brightness in the main menu.
-
-With the way the system is currently configured, you cannot switch between RetroArch cores in one system. For example, while most Nintendo 64 games play best with the Mupen64Plus N64 emulator, others may play better with the Parallel N64 core. There isn’t a way to set the Parallel N64 core to launch with certain games. Instead, I’ve made a Parallel N64 core section, so that you can launch the same N64 library with that core instead. To set it up, go into the sections/emulators/optional folder on your SD card, and move the file named “07 parallel (n64)” into the sections/emulators folder. Now you will see a Parallel N64 option in your main menu.
-
-If you would rather just run RetroArch by default and not deal with the Simple30 menu interface, that is set up as well. Go into the bin/RA launcher folder on your SD card, and move the gmenu2x from from that folder into the bin folder (replace the one that’s already in there, although I would make a backup in case you want to revert back at some point). From now on you will launch directly into RetroArch whenever you boot up the device, and quitting RetroArch will shut down the device.
+- With the way the system is currently configured, you cannot switch between RetroArch cores in one system. For example, while most Nintendo 64 games play best with the Mupen64Plus N64 emulator, others may play better with the Parallel N64 core. There isn’t a way to set the Parallel N64 core to launch with certain games. Instead, I’ve made a Parallel N64 core section, so that you can launch the same N64 library with that core instead. To set it up, go into the sections/emulators/optional folder on your SD card, and move the file named “07 parallel (n64)” into the sections/emulators folder. Now you will see a Parallel N64 option in your main menu.
+- If you would rather just run RetroArch by default and not deal with the Simple30 menu interface, that is set up as well. Go into the bin/RA launcher folder on your SD card, and move the gmenu2x from from that folder into the bin folder (replace the one that’s already in there, although I would make a backup in case you want to revert back at some point). From now on you will launch directly into RetroArch whenever you boot up the device, and quitting RetroArch will shut down the device.
 
 ## Known issues
 
