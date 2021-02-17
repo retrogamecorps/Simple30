@@ -1,9 +1,7 @@
 <img src="https://retrogamecorps.files.wordpress.com/2021/02/simple30.png">
 
 # Simple30
-When it comes down to it, the goal of Simple30 is to give the user a fully capable device, but with a pick-up-and-play experience.
-
-This project is a continuation of my previous <a href="https://github.com/retrogamecorps/s30-add-on-pack">S30 Add-On Pack</a>, thanks to a number of developers whose work enabled me to compile and streamline the user experience.
+The goal of Simple30 is to give the user a fully capable device, but with a pick-up-and-play experience, on the PocketGo S30.  This project is a continuation of my previous <a href="https://github.com/retrogamecorps/s30-add-on-pack">S30 Add-On Pack</a>, thanks to a number of developers whose work enabled me to compile and streamline the user experience.
 
 ### Credit:
 
