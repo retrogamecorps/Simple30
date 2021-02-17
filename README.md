@@ -5,8 +5,8 @@ This project is available thanks to a number of developers whose work enabled me
 
 ### Credit:
 
-bkacjois was able to create a fully-formed RetroArch 1.9.0 that works on the S30<br>
-slaminger added dozens of new emulators and ports to the device<br>
+<a href="https://github.com/bkacjios">bkacjois</a> was able to create a fully-formed RetroArch 1.9.0 that works on the S30<br>
+<a href="https://github.com/slaminger">slaminger</a> added dozens of new emulators and ports to the device<br>
 DaMikki developed a safe shutdown mechanism for use with this device<br>
 
 ## Features
@@ -173,7 +173,7 @@ To add these systems to your device, navigate to the sections/emulators/optional
 
 All of the emulators (except for the standalone PSP emulator) will take advantage of RetroArch’s universal hotkeys system. Here are the hotkeys that you can use while in a game:
 
-RetroArch hotkeys
+### RetroArch hotkeys
 
 SELECT + POWER = Quit game and return to main menu<br>
 SELECT + START = RetroArch Menu<br>
