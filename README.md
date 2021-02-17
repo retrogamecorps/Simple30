@@ -1,7 +1,7 @@
 # Simple30
 When it comes down to it, the goal of Simple30 is to give the user a fully capable device, but with a pick-up-and-play experience.
 
-This project is available thanks to a number of developers whose work enabled me to basically compile and streamline the user experience.
+This project is a continuation of my previous <a href="https://github.com/retrogamecorps/s30-add-on-pack">S30 Add-On Pack</a>, thanks to a number of developers whose work enabled me to compile and streamline the user experience.
 
 ### Credit:
 
@@ -21,13 +21,13 @@ DaMikki developed a safe shutdown mechanism for use with this device<br>
 
 ## Installation
 
-I recommend you upgrade the stock SD card in your device to a 128GB or 256GB microSD card, from a reputable brand like SanDisk or Samsung, so that you have a reliable storage option with plenty of space for your game collection. It is also confirmed that 512GB cards also work fine on this device. Here is a link to my recommended cards.
+I recommend you upgrade the stock SD card in your device to a 128GB or 256GB microSD card, from a reputable brand like SanDisk or Samsung, so that you have a reliable storage option with plenty of space for your game collection. It is also confirmed that 512GB cards also work fine on this device. <a href="https://retrogamecorps.com/shop/#Cards">Here is a link to my recommended cards.</a>
 
-In order for this card to work on your device, you will need to format it to FAT32 file system. Windows can only format cards which are less than 32GB to FAT32, so you will need to use a program called guiformat. For Mac, you can use the Disk Utility program that comes with MacOS to format (“erase”) the card, with MS-DOS (FAT) as the format. In both cases, you can name the card “SIMPLE30”.
+In order for this card to work on your device, you will need to format it to FAT32 file system. Windows can only format cards which are less than 32GB to FAT32, so you will need to use a program called <a href="https://gbatemp.net/download/gui-format.33869/">guiformat</a>. For Mac, you can use the Disk Utility program that comes with MacOS to format (“erase”) the card, with MS-DOS (FAT) as the format. In both cases, you can name the card “SIMPLE30”.
 
 Once your card is formatted, download Simple30 here:
 
-Simple30 on Google Drive
+### <a href="https://drive.google.com/file/d/1-nnvOmx13_mVMazezN-XzuV_GDc-6F85/view?usp=drivesdk">Simple30 on Google Drive</a>
 
 Unzip the contents and drag them into your FAT32-formatted SD card. That’s it, you’re done. You can now add your game files to their respective folder within the main “roms” folder, and your BIOS files, too (more on that in the next section).
 
