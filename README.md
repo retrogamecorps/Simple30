@@ -5,9 +5,9 @@ This project is available thanks to a number of developers whose work enabled me
 
 ### Credit:
 
-* bkacjois was able to create a fully-formed RetroArch 1.9.0 that works on the S30
-* slaminger added dozens of new emulators and ports to the device
-* DaMikki developed a safe shutdown mechanism for use with this device
+bkacjois was able to create a fully-formed RetroArch 1.9.0 that works on the S30<br>
+slaminger added dozens of new emulators and ports to the device<br>
+DaMikki developed a safe shutdown mechanism for use with this device<br>
 
 ## Features
 
@@ -37,30 +37,30 @@ The BIOS files now need to be placed in the retroarch/system folder. Here are th
 
 DREAMCAST:<br>
 dc/dc_boot.bin<br>
-dc/dc_flash.bin<br><br>
+dc/dc_flash.bin<br>
 
 SEGA CD:<br>
 bios_CD_E.bin<br>
 bios_CD_J.bin<br>
-bios_CD_U.bin<br><br>
+bios_CD_U.bin<br>
 
 FAMICOM DISK SYSTEM:<br>
-disksys.rom<br><br>
+disksys.rom<br>
 
 GAME BOY (for boot logo):<br>
-gb_bios.bin<br><br>
+gb_bios.bin<br>
 
 GAME BOY COLOR (for boot logo):<br>
-gbc_bios.bin<br><br>
+gbc_bios.bin<br>
 
 GAME BOY ADVANCE:<br>
-gba_bios.bin<br><br>
+gba_bios.bin<br>
 
 NEO GEO:<br>
-neogeo.zip<br><br>
+neogeo.zip<br>
 
 PLAYSTATION:<br>
-scph1001.bin<br><br>
+scph1001.bin<br>
 
 TURBOGRAFX-CD:<br>
 syscard1.pce<br>
