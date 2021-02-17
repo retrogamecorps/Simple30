@@ -3,13 +3,15 @@ When it comes down to it, the goal of Simple30 is to give the user a fully capab
 
 This project is available thanks to a number of developers whose work enabled me to basically compile and streamline the user experience.
 
-bkacjois was able to create a fully-formed RetroArch 1.9.0 that works on the S30
-slaminger added dozens of new emulators and ports to the device
-DaMikki developed a safe shutdown mechanism for use with this device
+### Credit:
+
+* bkacjois was able to create a fully-formed RetroArch 1.9.0 that works on the S30
+* slaminger added dozens of new emulators and ports to the device
+* DaMikki developed a safe shutdown mechanism for use with this device
 
 ## Features
 
-Simple30 is:
+### Simple30 is:
 
 - Optimized to allow you to play 90 systems and ports altogether, but the flexibility to pare down your system list to as few systems as you’d like (or as many as you’d like).
 - Pre-configured with optimal graphics settings to give you an excellent viewing experience without having to tinker with the settings yourself (but with the freedom to tinker if you’d like).
@@ -33,7 +35,7 @@ Unzip the contents and drag them into your FAT32-formatted SD card. That’s it,
 
 The BIOS files now need to be placed in the retroarch/system folder. Here are the necessary BIOS files for the default systems:
 
-DREAMCAST: 
+`DREAMCAST: 
 dc/dc_boot.bin
 dc/dc_flash.bin
 
@@ -63,8 +65,9 @@ scph1001.bin
 TURBOGRAFX-CD:
 syscard1.pce
 syscard2.pce
-syscard3.pce
-Supported systems
+syscard3.pce`
+
+## Supported systems
 
 The Simple30 image, by default, contains about 20 of the most popular classic systems:
 
