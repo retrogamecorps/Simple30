@@ -35,61 +35,61 @@ Unzip the contents and drag them into your FAT32-formatted SD card. That’s it,
 
 The BIOS files now need to be placed in the retroarch/system folder. Here are the necessary BIOS files for the default systems:
 
-`DREAMCAST: 
-dc/dc_boot.bin
-dc/dc_flash.bin
+DREAMCAST:<br>
+dc/dc_boot.bin<br>
+dc/dc_flash.bin<br><br>
 
-SEGA CD:
-bios_CD_E.bin
-bios_CD_J.bin
-bios_CD_U.bin
+SEGA CD:<br>
+bios_CD_E.bin<br>
+bios_CD_J.bin<br>
+bios_CD_U.bin<br><br>
 
-FAMICOM DISK SYSTEM:
-disksys.rom
+FAMICOM DISK SYSTEM:<br>
+disksys.rom<br><br>
 
-GAME BOY (for boot logo):
-gb_bios.bin
+GAME BOY (for boot logo):<br>
+gb_bios.bin<br><br>
 
-GAME BOY COLOR (for boot logo):
-gbc_bios.bin
+GAME BOY COLOR (for boot logo):<br>
+gbc_bios.bin<br><br>
 
-GAME BOY ADVANCE:
-gba_bios.bin
+GAME BOY ADVANCE:<br>
+gba_bios.bin<br><br>
 
-NEO GEO:
-neogeo.zip
+NEO GEO:<br>
+neogeo.zip<br><br>
 
-PLAYSTATION:
-scph1001.bin
+PLAYSTATION:<br>
+scph1001.bin<br><br>
 
-TURBOGRAFX-CD:
-syscard1.pce
-syscard2.pce
-syscard3.pce`
+TURBOGRAFX-CD:<br>
+syscard1.pce<br>
+syscard2.pce<br>
+syscard3.pce<br>
 
 ## Supported systems
 
 The Simple30 image, by default, contains about 20 of the most popular classic systems:
 
-Arcade (FinalBurn Neo)
-Arcade (MAME 2003-Plus)
-Arcade (Neo Geo)
-Nintendo Entertainment System
-Super NES
-Nintendo 64
-Game Boy
-Game Boy Color
-Game Boy Advance
-Sega Master System
-Sega Genesis
-Sega CD
-Sega 32X
-Sega Dreamcast
-Sega Game Gear
-Sony PlayStation
-Sony PSP
-TurboGrafx-16
-TurboGrafx-CD
+Arcade (FinalBurn Neo)<br>
+Arcade (MAME 2003-Plus)<br>
+Arcade (Neo Geo)<br>
+Nintendo Entertainment System<br>
+Super NES<br>
+Nintendo 64<br>
+Game Boy<br>
+Game Boy Color<br>
+Game Boy Advance<br>
+Sega Master System<br>
+Sega Genesis<br>
+Sega CD<br>
+Sega 32X<br>
+Sega Dreamcast<br>
+Sega Game Gear<br>
+Sony PlayStation<br>
+Sony PSP<br>
+TurboGrafx-16<br>
+TurboGrafx-CD<br>
 
 Note that with this new software, Nintendo 64 is now available. But just like Sega Dreamcast and Sony PSP, performance is relatively limited. The other systems play just fine.
 
@@ -97,74 +97,75 @@ If you want to remove any of these systems from your main menu, simply go to the
 
 But additionally, there are other emulators and ports that you can play on your device, such as:
 
-CPS1
-CPS2
-MAME 2010
-Neo Geo CD
-Famicom Disk System
-Famicom
-MSU1
-Satellaview
-Super Famicom
-Sufami Turbo
-N64DD
-N64 (Parallel core)
-Virtual Boy
-Game & Watch
-Super Game Boy
-Atomiswave
-Naomi
-Dreamcast VMU
-PSP Minis
-Neo Geo Pocket
-Neo Geo Pocket Color
-Atari Lynx
-Wonderswan
-Wonderswan Color
-ZX Spectrum
-TIC-80
-MSX Turbo R
-MSX
-MSX2
-Colecovision
-Odyssey Videopac
-SuperGrafx
-SG-1000
-Atari 2600
-Atari 5200
-Atari 800
-Atari 78
-Atari ST
-Vectrex
-Amiga 500
-Amiga CD32
-PC98
-PC88
-Channel F
-X86000
-Sharp X1
-Amstrad CPC
-Intellivision
-Thomas MO5
-Commodore 64
-Commodore 128
-Commodore PET
-Commodore Plus4
-Commodore VIC20
-Palm OS
-2048
-EasyRPG
-Pokemon Mini
-Wolfenstein 3D
-Mr. Boom
-Uzebox
-Cavestory
-Quake
-Lutro
-Rick Dangerous
-DOOM
-OutRun
-Dinothawr
+CPS1<br>
+CPS2<br>
+MAME 2003<br>
+MAME 2010<br>
+Neo Geo CD<br>
+Famicom Disk System<br>
+Famicom<br>
+MSU1<br>
+Satellaview<br>
+Super Famicom<br>
+Sufami Turbo<br>
+N64DD<br>
+N64 (Parallel core)<br>
+Virtual Boy<br>
+Game & Watch<br>
+Super Game Boy<br>
+Atomiswave<br>
+Naomi<br>
+Dreamcast VMU<br>
+PSP Minis<br>
+Neo Geo Pocket<br>
+Neo Geo Pocket Color<br>
+Atari Lynx<br>
+Wonderswan<br>
+Wonderswan Color<br>
+ZX Spectrum<br>
+TIC-80<br>
+MSX Turbo R<br>
+MSX<br>
+MSX2<br>
+Colecovision<br>
+Odyssey Videopac<br>
+SuperGrafx<br>
+SG-1000<br>
+Atari 2600<br>
+Atari 5200<br>
+Atari 800<br>
+Atari 78<br>
+Atari ST<br>
+Vectrex<br>
+Amiga 500<br>
+Amiga CD32<br>
+PC98<br>
+PC88<br>
+Channel F<br>
+X86000<br>
+Sharp X1<br>
+Amstrad CPC<br>
+Intellivision<br>
+Thomas MO5<br>
+Commodore 64<br>
+Commodore 128<br>
+Commodore PET<br>
+Commodore Plus4<br>
+Commodore VIC20<br>
+Palm OS<br>
+2048<br>
+EasyRPG<br>
+Pokemon Mini<br>
+Wolfenstein 3D<br>
+Mr. Boom<br>
+Uzebox<br>
+Cavestory<br>
+Quake<br>
+Lutro<br>
+Rick Dangerous<br>
+DOOM<br>
+OutRun<br>
+Dinothawr<br>
 
 To add these systems to your device, navigate to the sections/emulators/optional/ folder, and move whatever system you would like to play into the sections/emulators folder instead. Note that some of these systems will require additional BIOS files, and the ports will require retail files added to their respective rom folder.
 
@@ -174,21 +175,20 @@ All of the emulators (except for the standalone PSP emulator) will take advantag
 
 RetroArch hotkeys
 
-SELECT + POWER = Quit game and return to main menu
-SELECT + START = RetroArch Menu
-Hold START (3 seconds) = RetroArch Menu
-SELECT + Y = Toggle FPS (frames per second)
-SELECT + B = reset game
-SELECT + A = pause emulation
-SELECT + R1 = save state
-SELECT + L1 = load save state
-SELECT + L2 = rewind (when enabled)
-SELECT + R2 = fast forward (currently no working)
-SELECT + RIGHT on d-pad = save state slot +
-SELECT + LEFT on d-pad = save state slot -
-SELECT + UP on d-pad = volume up
-SELECT + DOWN on d-pad = volume down
-Notes
+SELECT + POWER = Quit game and return to main menu<br>
+SELECT + START = RetroArch Menu<br>
+Hold START (3 seconds) = RetroArch Menu<br>
+SELECT + Y = Toggle FPS (frames per second)<br>
+SELECT + B = reset game<br>
+SELECT + A = pause emulation<br>
+SELECT + R1 = save state<br>
+SELECT + L1 = load save state<br>
+SELECT + L2 = rewind (when enabled)<br>
+SELECT + R2 = fast forward (currently no working)<br>
+SELECT + RIGHT on d-pad = save state slot +<br>
+SELECT + LEFT on d-pad = save state slot -<br>
+SELECT + UP on d-pad = volume up<br>
+SELECT + DOWN on d-pad = volume down<br>
 
 ## Notes
 
