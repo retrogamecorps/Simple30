@@ -1,3 +1,5 @@
+<img src="https://retrogamecorps.files.wordpress.com/2021/02/simple30.png">
+
 # Simple30
 When it comes down to it, the goal of Simple30 is to give the user a fully capable device, but with a pick-up-and-play experience.
 
