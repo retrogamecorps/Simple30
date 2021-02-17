@@ -27,7 +27,7 @@ In order for this card to work on your device, you will need to format it to FAT
 
 Once your card is formatted, download Simple30 here:
 
-### <a href="https://drive.google.com/file/d/1-nnvOmx13_mVMazezN-XzuV_GDc-6F85/view?usp=drivesdk">Simple30 on Google Drive</a>
+### >> <a href="https://drive.google.com/file/d/1-nnvOmx13_mVMazezN-XzuV_GDc-6F85/view?usp=drivesdk">Simple30 on Google Drive</a>
 
 Unzip the contents and drag them into your FAT32-formatted SD card. That’s it, you’re done. You can now add your game files to their respective folder within the main “roms” folder, and your BIOS files, too (more on that in the next section).
 
