@@ -208,3 +208,4 @@ Like any software solution, Simple30 is a work in progress. Here are some of the
 - Some shaders will rotate the screen when turned on.
 - Fast forward function does not work at this time.
 - Volume and brightness levels are reset when the device is powered off/on.
+- With MAME2003-Plus, some button presses register as multiple buttons.  Until a fix is in place, you can do a workaround by swapping out the RetroArch core with MAME2003 (open the sections/emulators/ folder, find the MAME 2003-Plus file, open it with a text editor, and change the core to (`params=-v -c retroarch-arcade.cfg -L mame2003_libretro.so`).
